@@ -34,3 +34,7 @@ If you wish to delete a note, you can click on the small trashcan image and the 
 ## BADGES
 
 ![badge](https://img.shields.io/static/v1?label=Javascript&message=100&color=green)
+
+## HOW TO CONTRIBUTE
+
+If you would like to contribute to the code, please fork the github data, and create a pull request.
